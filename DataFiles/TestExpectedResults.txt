@@ -1,0 +1,10 @@
+Answer1
+Adding: Key: 5, Value: A
+Adding: Key: 9, Value: C
+Adding: Key: 3, Value: B
+Peeking: Key: 3, Value: B
+Polling (Now Serving): Key: 3, Value: B
+Adding: Key: 7, Value: D
+Polling (Now Serving): Key: 5, Value: A
+Polling (Now Serving): Key: 7, Value: D
+END VALUE
